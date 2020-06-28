@@ -1,0 +1,13 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\eceka> & C:/Users/eceka/AppData/Local/Microsoft/WindowsApps/python.exe "c:/Users/eceka/Google Drive/BootCampWork/python---challenge/PyBank/main.py"
+C:\Users\eceka
+Total Months: 86
+Total Net Profit: $38382578
+Average Change: $446309.0465116279
+Greatest Increase in Profits: Feb-2012 ($1170593)
+Greatest Decrease in Profits: Sep-2013 ($-1196225)
+PS C:\Users\eceka> 
